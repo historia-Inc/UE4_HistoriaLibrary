@@ -1,0 +1,27 @@
+{
+	"Actors":
+	[
+		{
+			"ClassName":"/Game/BP_TestActor.BP_TestActor",
+			"Properties":
+			{
+				"Boolean0":true,
+				"Integer0":666,
+				"Float0":456.789,
+				"String0":"abc",
+				"Vector0":[ 1, 2, 3 ],
+				"Rotation0":[180, 0, 90]
+			}
+		},
+		{
+			"ClassName":"/Game/BP_TestActor_Child.BP_TestActor_Child",
+			"Properties":
+			{
+				"Boolean0":true,
+				"Integer0":777,
+				"Float0":987.654,
+				"String0":"xyz"
+			}
+		}
+	]
+}

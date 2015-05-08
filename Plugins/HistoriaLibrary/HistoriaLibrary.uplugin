@@ -1,0 +1,24 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Json Spawn Actor Plugin",
+	"Version" : 1,
+	"VersionName" : "1.0.0",
+	"CreatedBy" : "historia Inc.",
+	"CreatedByURL" : "http://historia.co.jp/",
+	"EngineVersion" : "4.7.0",
+	"Description" : "Historia Library",
+	"Category" : "Json",
+	
+	"Modules" :
+	[
+		{
+			"Name" : "JsonSpawnModule",
+			"Type": "Runtime"
+		},
+		{
+			"Name" : "JsonPropModule",
+			"Type": "Editor"
+		}
+	]
+}
